@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "first_name": "Aman",
+      "last_name": "Gupta",
+      "city": "Ahmedabad",
+      "company": "SublimeDataSystems"
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Doe",
+      "city": "New York",
+      "company": "Tech Innovators"
+    },
+    {
+      "id": 3,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "city": "London",
+      "company": "Global Solutions"
+    },
+    {
+      "id": 4,
+      "first_name": "Sara",
+      "last_name": "Johnson",
+      "city": "Los Angeles",
+      "company": "Infinite Innovations"
+    },
+    {
+      "id": 5,
+      "first_name": "Michael",
+      "last_name": "Brown",
+      "city": "Chicago",
+      "company": "Digital Dynamics"
+    },
+    {
+      "id": 6,
+      "first_name": "Emily",
+      "last_name": "Davis",
+      "city": "Sydney",
+      "company": "Tech Connect"
+    },
+    {
+      "id": 7,
+      "first_name": "Alex",
+      "last_name": "Lee",
+      "city": "Toronto",
+      "company": "Innovate Tech"
+    },
+    {
+      "id": 8,
+      "first_name": "Mia",
+      "last_name": "Williams",
+      "city": "Paris",
+      "company": "Global Ventures"
+    },
+    {
+      "id": 9,
+      "first_name": "Ethan",
+      "last_name": "Miller",
+      "city": "Berlin",
+      "company": "Future Solutions"
+    },
+    {
+      "id": 10,
+      "first_name": "Olivia",
+      "last_name": "Moore",
+      "city": "Tokyo",
+      "company": "Tech Innovations Japan"
+    },
+    {
+      "id": 11,
+      "first_name": "Liam",
+      "last_name": "Johnson",
+      "city": "Mumbai",
+      "company": "Smart Solutions"
+    },
+    {
+      "id": 12,
+      "first_name": "Ava",
+      "last_name": "Brown",
+      "city": "Seoul",
+      "company": "Global Tech Hub"
+    },
+    {
+      "id": 13,
+      "first_name": "Logan",
+      "last_name": "Clark",
+      "city": "Rio de Janeiro",
+      "company": "Latin Innovations"
+    },
+    {
+      "id": 14,
+      "first_name": "Sophia",
+      "last_name": "Johnson",
+      "city": "Moscow",
+      "company": "Tech Masters"
+    },
+    {
+      "id": 15,
+      "first_name": "Jackson",
+      "last_name": "Taylor",
+      "city": "Cape Town",
+      "company": "Africa Tech Solutions"
+    },
+    {
+      "id": 16,
+      "first_name": "Emma",
+      "last_name": "Hill",
+      "city": "Beijing",
+      "company": "Great Wall Innovations"
+    },
+    {
+      "id": 17,
+      "first_name": "Noah",
+      "last_name": "White",
+      "city": "Mexico City",
+      "company": "Tech Fusion Mexico"
+    },
+    {
+      "id": 18,
+      "first_name": "Isabella",
+      "last_name": "Anderson",
+      "city": "Dubai",
+      "company": "Arabian Tech Solutions"
+    },
+    {
+      "id": 19,
+      "first_name": "William",
+      "last_name": "Smith",
+      "city": "Bangkok",
+      "company": "Asia Tech Innovations"
+    },
+    {
+      "id": 20,
+      "first_name": "Avery",
+      "last_name": "Wilson",
+      "city": "Singapore",
+      "company": "Smart City Solutions"
+    }
+  ]
+  
